@@ -1,8 +1,9 @@
 # Safety-Ridding
 
-### Safety-Ridding은 모빌리티와 자동차간 안전을 지키고자 만든 지도 앱입니다.
+### Safety-Ridding은 모빌리티와 자동차간 안전을 지키고자 만든 지도 앱입니다.  
 
 ![ezgif com-resize (4)](https://user-images.githubusercontent.com/52908154/79536555-4ac6be80-80bb-11ea-8c66-b1f8e07f8fc7.gif)  
+
 * QR코드를 통해 기존의 공유 모빌리티 시스템과 유사하게 대여합니다.  
 * 대여 완료되면 모빌리티의 GPS정보를 서버로 지속적으로 송신합니다.   
 * 블루투스를 사용하여 기기연결을 지속적으로 확인합니다.  
@@ -10,8 +11,6 @@
 ![image](https://user-images.githubusercontent.com/52908154/79535817-8496c580-80b9-11ea-87e7-86261cb0298b.png)  
 
 ### 앱의 로직은 위와 같습니다.
-
-![image](https://user-images.githubusercontent.com/52908154/79535843-91b3b480-80b9-11ea-9d3c-96b7a13d85d7.png)  
 
 
 ![image](https://user-images.githubusercontent.com/52908154/79535860-98dac280-80b9-11ea-8958-6b07efc3b7cf.png)    
