@@ -24,6 +24,6 @@
 * #### Above is a test image of mobility mode, vehicle mode.
 
 ##### development environmen
-App - Android Studio
-Server - node.js
+App - Android Studio  
+Server - node.js  
 Sometimes I used Arduino for the Bluetooth test.
