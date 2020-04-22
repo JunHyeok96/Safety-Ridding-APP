@@ -1,6 +1,6 @@
 # Safety-Ridding
-
-### Safety-Ridding은 모빌리티와 자동차간 안전을 지키고자 만든 지도 앱입니다.  
+ In South Korea, the shared mobility market is growing steeply.
+### Safety-Riding is a map app created for the safety of mobility users.
 
 ![ezgif com-resize (4)](https://user-images.githubusercontent.com/52908154/79536555-4ac6be80-80bb-11ea-8c66-b1f8e07f8fc7.gif)  
 
